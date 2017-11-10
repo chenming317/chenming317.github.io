@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Ming Chen</title>
+    <link>https://coky.github.io/publication/</link>
+    <description>Recent content in Publications on Ming Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Ming Chen</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Design of Trajectory Tracking System for Industrial Robots Based on Impedance Control</title>
+      <link>https://coky.github.io/publication/trajectory_tracking/</link>
+      <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://coky.github.io/publication/trajectory_tracking/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design of Trajectory Tracking System for Industrial Robots Based on Impedance Control</title>
+      <link>https://coky.github.io/publication/initial-welding-point-selection/</link>
+      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://coky.github.io/publication/initial-welding-point-selection/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
