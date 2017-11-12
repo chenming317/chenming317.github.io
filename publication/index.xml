@@ -16,12 +16,12 @@
       <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://coky.github.io/publication/trajectory_tracking/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.--&gt;
 </description>
     </item>
     
     <item>
-      <title>Design of Trajectory Tracking System for Industrial Robots Based on Impedance Control</title>
+      <title>Initial Welding Point Selection and Optimal Trajectory Planning for Multi-Robots Cooperative Welding Systems</title>
       <link>https://coky.github.io/publication/initial-welding-point-selection/</link>
       <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
       
