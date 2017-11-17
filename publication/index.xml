@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Ming Chen</title>
-    <link>https://coky.github.io/publication/</link>
+    <link>https://chenm.me/publication/</link>
     <description>Recent content in Publications on Ming Chen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,20 +12,20 @@
     
     <item>
       <title>Design of Trajectory Tracking System for Industrial Robots Based on Impedance Control</title>
-      <link>https://coky.github.io/publication/trajectory_tracking/</link>
+      <link>https://chenm.me/publication/trajectory_tracking/</link>
       <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://coky.github.io/publication/trajectory_tracking/</guid>
+      <guid>https://chenm.me/publication/trajectory_tracking/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.--&gt;
 </description>
     </item>
     
     <item>
       <title>Initial Welding Point Selection and Optimal Trajectory Planning for Multi-Robots Cooperative Welding Systems</title>
-      <link>https://coky.github.io/publication/initial_welding_point_selection/</link>
+      <link>https://chenm.me/publication/initial_welding_point_selection/</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://coky.github.io/publication/initial_welding_point_selection/</guid>
+      <guid>https://chenm.me/publication/initial_welding_point_selection/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.--&gt;
 </description>
     </item>
