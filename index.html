@@ -900,14 +900,12 @@ Prof. Lei Zhang</a>. I received the M.Eng. degree in Control Science and Enginee
 
 <footer class="site-footer">
   <div class="container">
-    <p class="powered-by">
+	<p class="powered-by">
+	  <!-- refer to https://www.revolvermaps.com/?target=setup -->
+	  <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=506d62r7wtn&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
-      &copy; 2017 Ming CHEN &middot; 
-
-      Powered by the
-      <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
-      <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
-
+	  &copy; 2017 Ming CHEN &middot; <em id="lastModified"></em>
+	  
       <span class="pull-right" aria-hidden="true">
         <a href="#" id="back_to_top">
           <span class="button_icon">
@@ -915,8 +913,20 @@ Prof. Lei Zhang</a>. I received the M.Eng. degree in Control Science and Enginee
           </span>
         </a>
       </span>
-
+	  
+	  <br />
+	  
+	  Powered by the
+      <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+      <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
     </p>
+	<script type="text/javascript">
+		var date = new Date(document.lastModified); //Mon Sep 09 2019 23:00:24 GMT-0400 (北美东部夏令时间)
+		var str = date.toString().split(" ");
+		window.onload = function() {
+			document.getElementById("lastModified").innerHTML = "Last updated on " + str[1] + " " + parseInt(str[2]) + ", " + str[3];
+		}
+	</script>
   </div>
 </footer>
 
